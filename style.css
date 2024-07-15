@@ -1,0 +1,25 @@
+.body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: #fae900; /* Default text color */
+    background-image: url(davebackground.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    
+}
+
+.highlight {
+    color: #fae900; /* Blue color for the heading */
+}
+
+ul {
+    list-style-type: none; /* Remove default list styles */
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px; /* Adjust margin-bottom to create space between list items */
+}
+
